@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101_Ligon_todolist/static/css/main.3d6c7f57.css",
+    "main.js": "/ws101_Ligon_todolist/static/js/main.24e41bbe.js",
+    "static/js/453.3faecf1f.chunk.js": "/ws101_Ligon_todolist/static/js/453.3faecf1f.chunk.js",
+    "static/media/image.png": "/ws101_Ligon_todolist/static/media/image.7e9bf2aadfa4eb3907dc.png",
+    "index.html": "/ws101_Ligon_todolist/index.html",
+    "main.3d6c7f57.css.map": "/ws101_Ligon_todolist/static/css/main.3d6c7f57.css.map",
+    "main.24e41bbe.js.map": "/ws101_Ligon_todolist/static/js/main.24e41bbe.js.map",
+    "453.3faecf1f.chunk.js.map": "/ws101_Ligon_todolist/static/js/453.3faecf1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d6c7f57.css",
+    "static/js/main.24e41bbe.js"
+  ]
+}
